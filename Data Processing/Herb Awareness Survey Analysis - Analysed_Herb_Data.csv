@@ -1,0 +1,29 @@
+Response ID,Gender,Age,Herbal Awareness,Knowledge Level,Usage Frequency,Information Source,Primary Association,Purchase Intention,Age Group,Aware,Usage_Score,Potential_Customer,Customer_Persona,Marketing_Priority,Ever Used Herbs,Aware Flag,Used Flag,Likely Purchase Flag
+1,Male,27,Yes,4,"Yes, occasionally",Family/Friends,Improving health and wellness,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+2,Male,27,Yes,5,"Yes, occasionally",Internet/Websites,Cooking and food flavour enhancement,Probably,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Possible interest,Yes,1,1,1
+3,Female,27,Yes,3,"Yes, frequently","Family/Friends, Social Media, Internet/Websites, School/ University",Cooking and food flavour enhancement,Probably,Adults (25–34),Aware,2,Potential Buyer,Aware / Frequent User,Possible interest,Yes,1,1,1
+4,Female,23,Yes,3,"Yes, occasionally",Social Media,Cooking and food flavour enhancement,Probably,Young adults (18–24),Aware,1,Potential Buyer,Aware / Occasional User,Possible interest,Yes,1,1,1
+5,Female,25,Yes,3,"Yes, occasionally",Internet/Websites,Cooking and food flavour enhancement,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+6,Female,32,Yes,2,No,Social Media,I do not associate herbs with anything specific,Probably not,Adults (25–34),Aware,0,Unlikely Buyer,Aware / Non-user,Low stated interest,No,1,0,0
+7,Female,27,Yes,3,"Yes, occasionally",Social Media,Improving health and wellness,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+8,Male,27,Yes,3,"Yes, occasionally",Social Media,Improving health and wellness,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+9,Female,30,Yes,3,No,Family/Friends,Improving health and wellness,Definitely,Adults (25–34),Aware,0,Potential Buyer,Aware / Non-user,Strong stated interest,No,1,0,1
+10,Male,36,No,5,No,Family/Friends,Cultural/traditional practices,Probably,Middle-aged adults (35–54),Not Aware,0,Potential Buyer,No Medicinal-herb Awareness / Non-user,Possible interest,No,0,0,1
+11,Male,25,No,1,"Yes, occasionally","Social Media,",I do not associate herbs with anything specific,Not sure,Adults (25–34),Not Aware,1,Undecided,Herb User / No Medicinal-herb Awareness,Explore uncertainty,Yes,0,1,0
+12,Female,26,Yes,5,"Yes, frequently",School/ University,Cooking and food flavour enhancement,Definitely,Adults (25–34),Aware,2,Potential Buyer,Aware / Frequent User,Strong stated interest,Yes,1,1,1
+13,Female,27,Yes,4,"Yes, frequently","Social Media, School/ University",Cooking and food flavour enhancement,Definitely,Adults (25–34),Aware,2,Potential Buyer,Aware / Frequent User,Strong stated interest,Yes,1,1,1
+14,Male,27,Yes,3,No,"Family/Friends, Social Media, Internet/Websites",Improving health and wellness,Definitely,Adults (25–34),Aware,0,Potential Buyer,Aware / Non-user,Strong stated interest,No,1,0,1
+15,Female,26,Yes,2,"Yes, occasionally",Family/Friends,Improving health and wellness,Probably,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Possible interest,Yes,1,1,1
+16,Female,26,Yes,3,"Yes, frequently",Internet/Websites,Improving health and wellness,Definitely,Adults (25–34),Aware,2,Potential Buyer,Aware / Frequent User,Strong stated interest,Yes,1,1,1
+17,Male,37,No,1,No,I've never came across this information,Improving health and wellness,Probably,Middle-aged adults (35–54),Not Aware,0,Potential Buyer,No Medicinal-herb Awareness / Non-user,Possible interest,No,0,0,1
+18,Female,26,Yes,3,"Yes, occasionally",Family/Friends,Improving health and wellness,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+19,Male,43,Yes,2,"Yes, occasionally","Family/Friends, Social Media, Internet/Websites",Improving health and wellness,Definitely,Middle-aged adults (35–54),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+20,Female,25,Yes,3,"Yes, occasionally","Social Media, School/ University",Improving health and wellness,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+21,Female,53,Yes,3,"Yes, frequently",Family/Friends,Improving health and wellness,Definitely,Middle-aged adults (35–54),Aware,2,Potential Buyer,Aware / Frequent User,Strong stated interest,Yes,1,1,1
+22,Female,28,Yes,3,No,"Social Media, Internet/Websites",Natural alternative products,Probably,Adults (25–34),Aware,0,Potential Buyer,Aware / Non-user,Possible interest,No,1,0,1
+23,Male,53,Yes,2,"Yes, frequently",Family/Friends,Cooking and food flavour enhancement,Definitely,Middle-aged adults (35–54),Aware,2,Potential Buyer,Aware / Frequent User,Strong stated interest,Yes,1,1,1
+24,Female,49,No,1,"Yes, frequently",Social Media,Improving health and wellness,Probably,Middle-aged adults (35–54),Not Aware,2,Potential Buyer,Herb User / No Medicinal-herb Awareness,Possible interest,Yes,0,1,1
+25,Female,35,Yes,3,No,Social Media,Beauty and skincare,Probably,Middle-aged adults (35–54),Aware,0,Potential Buyer,Aware / Non-user,Possible interest,No,1,0,1
+26,Male,33,Yes,3,"Yes, occasionally","Family/Friends, Social Media",Improving health and wellness,Definitely,Adults (25–34),Aware,1,Potential Buyer,Aware / Occasional User,Strong stated interest,Yes,1,1,1
+27,Female,35,Yes,2,No,Social Media,Cultural/traditional practices,Definitely not,Middle-aged adults (35–54),Aware,0,Unlikely Buyer,Aware / Non-user,Low stated interest,No,1,0,0
+28,Female,19,No,3,"Yes, occasionally",School/ University,Cooking and food flavour enhancement,Probably,Young adults (18–24),Not Aware,1,Potential Buyer,Herb User / No Medicinal-herb Awareness,Possible interest,Yes,0,1,1
